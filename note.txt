@@ -1,0 +1,8 @@
+git clone ----------link-------
+
+git init
+git remote add origin -----link dite hove-----
+git add .
+git status
+git commit -m "comment"
+git push origin -u master
