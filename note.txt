@@ -6,3 +6,10 @@ git add .
 git status
 git commit -m "comment"
 git push origin -u master
+
+
+cd /d
+
+https://github.com/Amdadul-99/exam.git
+
+tohlajshfjlwrhgj jgbabjlhg khujkhbgfsvs
