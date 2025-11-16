@@ -3,7 +3,7 @@ import 'dart:io';
 void main() {
   List<Map<String, dynamic>> students = [];
 
-  //while (true) {
+  while (true) {
     print("Enter student ID (or type 'exit' to stop): ");
     String id = stdin.readLineSync()!;
 
