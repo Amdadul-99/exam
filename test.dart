@@ -4,8 +4,8 @@ void main() {
   List<Map<String, dynamic>> students = [];
 
   while (true) {
-    print("Enter student ID (or type 'exit' to stop): ");
-    String id = stdin.readLineSync()!;
+    print("Enter student ID (or type 'exit' to stop): ")
+    String id = stdin.readLineSync()!
 
     // Check if ID already exists
     if (students.any((student) => student['id'] == id)) {
